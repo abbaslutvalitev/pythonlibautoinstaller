@@ -12,4 +12,8 @@ When you open the program, we have this interface.
 [![2021-10-09-18-44-53.png](https://i.postimg.cc/ht4RwdWn/2021-10-09-18-44-53.png)](https://postimg.cc/HVNN8jkv)
 
 
+I think everyone understands the warning menu
+Under Library name: there is an input field. You need to enter the name of the library with which you will conduct actions.Otherwise, this error will occur.
 
+
+[![2021-10-09-18-53-29.png](https://i.postimg.cc/BQmPR2Lc/2021-10-09-18-53-29.png)](https://postimg.cc/nCQLDj1C)
