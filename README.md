@@ -8,7 +8,7 @@ Ok, let's move on to the installation. To install the package you need to:
 3. Open the pythonlibautoinstaller folder and move pythonlibautoinstaller.py to the folder where you will install the libraries
 4. Launch!
 # How to use??
-When you open the program, we have this interface:
+When you open the program, we have this interface.
 [![2021-10-09-18-44-53.png](https://i.postimg.cc/ht4RwdWn/2021-10-09-18-44-53.png)](https://postimg.cc/HVNN8jkv)
 
 
