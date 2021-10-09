@@ -10,7 +10,7 @@ Ok, let's move on to the installation. To install the package you need to:
 If you do not understand anything, the example of use in the video. To watch the video click on the picture below.
 
 
-[![Watch the video](https://i.postimg.cc/ht4RwdWn/2021-10-09-18-44-53.png)](https://youtu.be/I_QPVAe5G_s)
+[![Watch the video](https://i.postimg.cc/ht4RwdWn/2021-10-09-18-44-53.png)](https://youtu.be/kWnRapimYOU)
 # How to use??
 When you open the program, we have this interface.
 
