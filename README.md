@@ -36,5 +36,26 @@ If you do not understand from the video, I will explain in the text. I opened th
 The installation process began in the terminal. And then to show you I clicked on "Uninstall!".If you uninstall via pip, then you will have an inscription "Proceed Y or N" there, the same everywhere. If you delete Y well, if you change your mind N.
 
 # What's new?
-So far there is nothing in this section, but soon every update of the utility will be described here...
+Hello everyone! Unexpectedly, a new version of the 0.2b package has been released and I will tell you what I added there.
+1. Message when you click on the program close button (cross in windows). Of course there is an analogous function, but we'll talk about it a little later.
+
+
+[![2021-10-10-19-28-05.png](https://i.postimg.cc/MpT7FWTS/2021-10-10-19-28-05.png)](https://postimg.cc/zVsHLYKt)
+2. "Update" - what an update this is. This button allows you to install a new version of the library.
+
+
+[![2021-10-10-19-29-58.png](https://i.postimg.cc/HkVMtBZW/2021-10-10-19-29-58.png)](https://postimg.cc/NKvLs7vZ)
+3.Exit - yes, this is almost the same as in paragraph 1 (to be honest, I made these methods go to one function)
+
+
+[![2021-10-10-19-28-05.png](https://i.postimg.cc/MpT7FWTS/2021-10-10-19-28-05.png)](https://postimg.cc/zVsHLYKt)
+4. More info - the button by pressing which will open a menu where the version of the program will be written and a link to GitHub
+
+
+[![2021-10-10-19-30-28.png](https://i.postimg.cc/QCvDZN3y/2021-10-10-19-30-28.png)](https://postimg.cc/QKgwp3VQ)
+5. Information about the version - I also brought out the information about the version in the header of the window and at the bottom.
+
+
+[![2021-10-10-19-30-50.png](https://i.postimg.cc/sgTr3JsW/2021-10-10-19-30-50.png)](https://postimg.cc/LJg7TLq4)
+Here are 5 changes, how do you like this little update?
 
